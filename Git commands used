@@ -1,0 +1,6 @@
+# Used the following git commands to start the project and periodically throughout to push my files to GitHub
+
+git clone
+git add
+git commit -m "update message"
+git push
