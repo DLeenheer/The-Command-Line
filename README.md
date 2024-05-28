@@ -9,7 +9,8 @@ This features work with Git commands, bash commands, directory creation, and dat
 - customize the development environment
 
 I started with this folder tree - 
-.  
+
+- .  
 -  images  
 - - Commit.jpeg  
 - - deliverable.png  
@@ -27,8 +28,8 @@ I started with this folder tree -
 
 and ended with the following tree (all added files and folders were created with Linux commands) - 
 
-.  
-├── Data
+- .  
+- Data
 |   ├── Year
 |       ├── 1994
 |           ├── Game_6692
