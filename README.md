@@ -1,7 +1,6 @@
 # The-Command-Line
 
 This features work with Git commands, bash commands, directory creation, and data file creation.
-<hr>
 
 # Tasks completed
 - clone a GitHub repository and add the repository to local environment
@@ -11,20 +10,20 @@ This features work with Git commands, bash commands, directory creation, and dat
 
 I started with this folder tree - 
 .  
-├── images  
-|   ├── Commit.jpeg  
-|   ├── deliverable.png  
-|   ├── Push.jpeg  
-|   ├── Staged.jpeg  
-|   └── Unstaged.jpeg  
-├── Lab_2_data
-|   ├── answer1.txt  
-|   ├── regex_data1.txt  
-|   └── template.sh 
-├── README.md  
-├── LAB_1_README.md  
-├── LAB_2_README.md  
-└── game_6692.html  
+-  images  
+- - Commit.jpeg  
+- - deliverable.png  
+- - Push.jpeg  
+- - Staged.jpeg  
+- - Unstaged.jpeg  
+- Lab_2_data
+- - answer1.txt  
+- - regex_data1.txt  
+- - template.sh 
+- README.md  
+- LAB_1_README.md  
+- LAB_2_README.md  
+- game_6692.html  
 
 and ended with the following tree (all added files and folders were created with Linux commands) - 
 
