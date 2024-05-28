@@ -1,0 +1,16 @@
+# I used the following Linux commands at different points for this project
+
+pwd - to print the working directory
+ls - to list the directory contents
+ls -R - to list the directory, subdirectory, and subdirectory files & directories
+cd - to move up to down in the file tree
+mkdir - to create directories
+head file.html - to read in the first handful of lines of the html file to the terminal view
+grep "keyword" file.html - this let's us search for a keyword in an html file
+grep "keyword" file.html | wc - same as above but finds the lines, words, and characters in the input data (the data searched for on the left side of the |)
+grep "keyword" file.html > clues.txt - redirects the output from the grep command, creates the clues.txt file and adds the output from the grep command to the newly created clues.txt
+sort file.txt - sorts the file
+grep "text" file.html | sort > clue.txt - takes the output from the grep command, sorts it, creates a file called clue.txt, and inputs that result to the clue.txt file
+wget -O game_4206.html https://j-archive.com/showgame.php?game_id=4206 - this command was used to get the html data from this website and store it (it's the output from the -O flag) in the game_4206.html file
+- adding the 'game_4206.html' in the above file creates the filename, the output from the wget command is added to this newly created file
+alias - creates a shorthand for a longer command that gets reentered frequently or is mistyped, I used this to create alias cd..=cd .. so that the command to go to the directory above/parent directory will still work if the space is not included
