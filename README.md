@@ -5,12 +5,14 @@ This features work with Git commands, bash commands, directory creation, and dat
 # Tasks completed
 - clone a GitHub repository and add the repository to local environment
 - extract data from an html file with a Linux command
+- create a data file with a Linux command and pipe data into in (single command)
 - create a hierarchy for the storage of extracted data with Linux commands
+- move mulitple files to a subdirectory with one Linux command
 - customize the development environment
 
 I started with this folder tree - 
 
-- .  
+.  
 -  images  
 - - Commit.jpeg  
 - - deliverable.png  
@@ -28,38 +30,38 @@ I started with this folder tree -
 
 and ended with the following tree (all added files and folders were created with Linux commands) - 
 
-- .  
+.  
 - Data
-|   ├── Year
-|       ├── 1994
-|           ├── Game_6692
-|               └── game_6692.html
-|       ├── 1996
-|           ├── Game_4206
-|               ├── categories.txt
-|               ├── clues.txt
-|               ├── clues_DJ.txt
-|               ├── clues_J.txt
-|               ├── clues_FJ.txt
-|               └── game_4206.html
-|       ├── 1999
-|           ├── Game_1706
-|               └── game_1706.html
-|           ├── Game_2148
-|               └── game_2148.html
-|           ├── Game_2479
-|               └── game_2479.html
-├── images  
-|   ├── Commit.jpeg  
-|   ├── deliverable.png  
-|   ├── Push.jpeg  
-|   ├── Staged.jpeg  
-|   └── Unstaged.jpeg  
-├── Lab_2_data
-|   ├── answer1.txt  
-|   ├── regex_data1.txt  
-|   └── template.sh 
-├── README.md  
-├── LAB_1_README.md  
-└── LAB_2_README.md  
+- - Year
+- - - 1994
+- - - - Game_6692
+- - - - - game_6692.html
+- - - 1996
+- - - - Game_4206
+- - - - - categories.txt
+- - - - - clues.txt
+- - - - - clues_DJ.txt
+- - - - - clues_J.txt
+- - - - - clues_FJ.txt
+- - - - - game_4206.html
+- - - 1999
+- - - - Game_1706
+- - - - - game_1706.html
+- - - - Game_2148
+- - - - - game_2148.html
+- - - - Game_2479
+- - - - - game_2479.html
+- images  
+- - Commit.jpeg  
+- - deliverable.png  
+- - Push.jpeg  
+- - Staged.jpeg  
+- - Unstaged.jpeg  
+- Lab_2_data
+- - answer1.txt  
+- - regex_data1.txt  
+- - template.sh 
+- README.md  
+- LAB_1_README.md  
+- LAB_2_README.md  
 
